@@ -1,0 +1,5 @@
+setup.py
+blog_genration.egg-info/PKG-INFO
+blog_genration.egg-info/SOURCES.txt
+blog_genration.egg-info/dependency_links.txt
+blog_genration.egg-info/top_level.txt
