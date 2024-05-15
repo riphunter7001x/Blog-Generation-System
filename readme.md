@@ -82,7 +82,7 @@ This project is licensed under the MIT License.
 - LangChain for offering powerful tools and agents for language model integration.
 
 ## Contact
-For any questions or issues, please contact [your email].
+For any questions or issues, please contact adi.varpe117@gmail.com
 
 
 
