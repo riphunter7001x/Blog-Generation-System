@@ -63,7 +63,8 @@ This project implements a blog generation system that uses a language model (GPT
 
 2. **Output (saved to generated_blogs/The_Future_of_Artificial_Intelligence.txt):**
 
-
+3. **Check the Results:**
+   - You can check the generated blogs [here](https://github.com/riphunter7001x/Blog-Generation-System/tree/main/generated_blogs).
 
 ## Challenges Encountered
 - **Tool Integration**: Ensuring the proper integration and usage of LangChain tools (Wikipedia, DuckDuckGo, Arxiv) required careful configuration and testing.
@@ -74,8 +75,6 @@ This project implements a blog generation system that uses a language model (GPT
 - **Enhanced Prompt**: Further refine the prompt to improve the coherence and relevance of the generated content.
 - **User Interface**: Add a simple UI to enhance user experience and make the system more accessible.
 
-## License
-This project is licensed under the MIT License.
 
 ## Acknowledgments
 - OpenAI for providing the GPT-3.5-turbo model.

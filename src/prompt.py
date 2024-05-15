@@ -1,12 +1,11 @@
 from langchain import hub
 
-# pulling prompt from my hub 
+# Pulling prompt from my hub 
 prompt = hub.pull("riphunter7001x/custom-template-for-blog-generation")
 
-
-# it conatiain prompt \
-#     prompt = f"""
-# As an experienced blog writer, generate a blog based on the given topic and infomation. Ensure the blog follows this structure:
+# The prompt contains:
+# prompt = f"""
+# As an experienced blog writer, generate a blog based on the given topic and information. Ensure the blog follows this structure:
 
 # Heading:
 # Clearly define the topic of the blog.
@@ -20,5 +19,5 @@ prompt = hub.pull("riphunter7001x/custom-template-for-blog-generation")
 # Summary:
 # Summarize the main points covered in the blog.
 
-# from given infomation only
+# from given information only
 # """
